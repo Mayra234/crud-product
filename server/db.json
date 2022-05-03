@@ -1,0 +1,26 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Arroz",
+      "quantity": 2,
+      "brand": "Diana",
+      "foodGroup": "Cereal",
+      "price": 2000,
+      "expeditionDate": "2000-10-08",
+      "expirationDate": "2021-04-15",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "name": "Papa",
+      "quantity": "5",
+      "brand": "Pringles",
+      "foodGroup": "Frutas y verduras",
+      "price": "1500",
+      "expeditionDate": "2000-02-12",
+      "expirationDate": "2050-01-11",
+      "description": "Tubérculo de color cafe.",
+      "id": 2
+    }
+  ]
+}

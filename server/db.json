@@ -21,6 +21,28 @@
       "expirationDate": "2050-01-11",
       "description": "Tubérculo de color cafe.",
       "id": 2
+    },
+    {
+      "name": "Falda",
+      "quantity": "4",
+      "brand": "fs",
+      "foodGroup": "Alimentos proteicos",
+      "price": "5646",
+      "expeditionDate": "5252-05-25",
+      "expirationDate": "0003-08-31",
+      "description": "gfsbrea",
+      "id": 3
+    },
+    {
+      "name": "Falda",
+      "quantity": "4",
+      "brand": "fs",
+      "foodGroup": "Alimentos proteicos",
+      "price": "5646",
+      "expeditionDate": "5252-05-25",
+      "expirationDate": "0003-08-31",
+      "description": "gfsbrea",
+      "id": 4
     }
   ]
 }
